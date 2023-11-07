@@ -1,4 +1,4 @@
-# airline-ontime-source-data
+# airline-source-data
 
 Airline On-time Flight data used as sample data to support various demos, hands on labs, and workshops.
 
@@ -9,9 +9,9 @@ To use this data you will need to download the data first.  These instructions a
 1. Download this Repository
    * Select `<> Code` > `Download ZIP`
    * This will take approximately 20 minutes
-   * It will download a file named `airline-ontime-source-data-main.zip`
+   * It will download a file named `airline-source-data-main.zip`
 
-2. Unzip Repo zip - airline-ontime-source-data-main.zip
+2. Unzip Repo zip - airline-source-data-main.zip
    * Locate the downloaded .zip file using Finder
    * Double click on the .zip file
 
@@ -19,7 +19,7 @@ To use this data you will need to download the data first.  These instructions a
 
 * Navigate to the “flights” directory
 ```
-cd Downloads/airline-ontime-source-data-main/airlines-csv/flights
+cd Downloads/airline-source-data-main/airlines-csv/flights
 ```
 
 * Decompress the flights.csv file

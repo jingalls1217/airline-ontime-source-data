@@ -1,4 +1,4 @@
-# airline-source-data
+# airlines-source-data
 
 Airline On-time Flight data used as sample data to support various demos, hands on labs, and workshops.
 
